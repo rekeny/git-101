@@ -1,9 +1,11 @@
 body{
 	margin: 0;
 	font-family: Helvetica;
+	background-color: red;
 }
 h1{
 	font-weight: 100;
+	color: white;
 }
 #picture{
 	height: 80px;
